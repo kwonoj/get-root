@@ -1,24 +1,24 @@
 [![Build Status](https://travis-ci.org/kwonoj/get-root.svg?branch=master)](https://travis-ci.org/kwonoj/get-root)
 [![Build status](https://ci.appveyor.com/api/projects/status/mvpjn9ob40cubbuf?svg=true)](https://ci.appveyor.com/project/kwonoj/get-root)
 [![codecov](https://codecov.io/gh/kwonoj/get-root/branch/master/graph/badge.svg)](https://codecov.io/gh/kwonoj/get-root)
-[![npm](https://img.shields.io/npm/v/get-root.svg)](https://www.npmjs.com/package/get-root)
-[![node](https://img.shields.io/badge/node-=>4.0-blue.svg?style=flat)](https://www.npmjs.com/package/get-root)
+[![npm](https://img.shields.io/npm/v/get-root.svg)](https://www.npmjs.com/package/getroot)
+[![node](https://img.shields.io/badge/node-=>4.0-blue.svg?style=flat)](https://www.npmjs.com/package/getroot)
 
-# get-root
+# getroot
 
-`get-root` is simple utility wraps access to global object.
+`getroot` is simple utility wraps access to global object.
 
 # Install
 
 ```sh
-npm install get-root
+npm install getroot
 ```
 
 # Usage
 
 
 ```js
-import { root } from 'get-root';
+import { root } from 'getroot';
 
 //root is either `window` or `global` based on running environment.
 ```
