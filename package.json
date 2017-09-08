@@ -1,5 +1,5 @@
 {
-  "name": "get-root",
+  "name": "getroot",
   "version": "0.0.1",
   "description": "Get isomorphic global object on node.js and browser",
   "main": "./dist/src/index.js",
