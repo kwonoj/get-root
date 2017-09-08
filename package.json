@@ -35,15 +35,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kwonoj/get-root.git"
+    "url": "git+https://github.com/kwonoj/getroot.git"
   },
   "keywords": [],
   "author": "OJ Kwon <kwon.ohjoong@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kwonoj/get-root/issues"
+    "url": "https://github.com/kwonoj/getroot/issues"
   },
-  "homepage": "https://github.com/kwonoj/get-root#readme",
+  "homepage": "https://github.com/kwonoj/getroot#readme",
   "devDependencies": {
     "@commitlint/cli": "^3.1.2",
     "@commitlint/config-angular": "^3.1.1",

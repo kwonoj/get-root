@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.org/kwonoj/get-root.svg?branch=master)](https://travis-ci.org/kwonoj/get-root)
-[![Build status](https://ci.appveyor.com/api/projects/status/mvpjn9ob40cubbuf?svg=true)](https://ci.appveyor.com/project/kwonoj/get-root)
-[![codecov](https://codecov.io/gh/kwonoj/get-root/branch/master/graph/badge.svg)](https://codecov.io/gh/kwonoj/get-root)
-[![npm](https://img.shields.io/npm/v/get-root.svg)](https://www.npmjs.com/package/getroot)
+[![Build Status](https://travis-ci.org/kwonoj/getroot.svg?branch=master)](https://travis-ci.org/kwonoj/getroot)
+[![Build status](https://ci.appveyor.com/api/projects/status/mvpjn9ob40cubbuf?svg=true)](https://ci.appveyor.com/project/kwonoj/getroot)
+[![codecov](https://codecov.io/gh/kwonoj/getroot/branch/master/graph/badge.svg)](https://codecov.io/gh/kwonoj/getroot)
+[![npm](https://img.shields.io/npm/v/getroot.svg)](https://www.npmjs.com/package/getroot)
 [![node](https://img.shields.io/badge/node-=>4.0-blue.svg?style=flat)](https://www.npmjs.com/package/getroot)
 
 # getroot
@@ -35,4 +35,4 @@ Few npm scripts are supported for build / test code.
 
 # License
 
-[MIT](https://github.com/kwonoj/get-root/blob/master/LICENSE)
+[MIT](https://github.com/kwonoj/getroot/blob/master/LICENSE)
