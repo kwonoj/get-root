@@ -1,15 +1,9 @@
 {
-  "transform": {
-    ".(js|jsx|ts|tsx)": "<rootDir>/node_modules/ts-jest/preprocessor.js"
-  },
+  "preset": "ts-jest",
   "testMatch": [
     "**/spec/**/*-spec.ts"
   ],
   "bail": true,
-  "mapCoverage": true,
-  "resetMocks": true,
-  "clearMocks": true,
-  "resetModules": true,
   "testEnvironment": "node",
   "moduleFileExtensions": [
     "js",
