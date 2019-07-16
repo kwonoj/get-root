@@ -1,3 +1,5 @@
+# DEPRECATED: Now major runtime supports [`globalThis`](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/globalThis).
+
 [![Build Status](https://travis-ci.org/kwonoj/getroot.svg?branch=master)](https://travis-ci.org/kwonoj/getroot)
 [![Build status](https://ci.appveyor.com/api/projects/status/mvpjn9ob40cubbuf?svg=true)](https://ci.appveyor.com/project/kwonoj/getroot)
 [![codecov](https://codecov.io/gh/kwonoj/getroot/branch/master/graph/badge.svg)](https://codecov.io/gh/kwonoj/getroot)
